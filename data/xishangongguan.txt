@@ -1,0 +1,81 @@
+链接	小区	户型	面积(平米)	朝向	装修	是否电梯	成交年月	成交日期	总价(万)	楼层	总楼层数	建筑年份	签约来源	单价(元/平)	状态
+http://bj.lianjia.com/chengjiao/101100571979.html	西山公馆	3室2厅	150	南 北	精装	有电梯	2016-09	2016.09.27	1200	中楼层	共7层	2010年建板楼	链家网签约	80000	EmptyInfo
+http://bj.lianjia.com/chengjiao/101100539977.html	西山公馆	1室0厅	33	西南	毛坯	无电梯	2016-09	2016.09.10	35	地下室	共1层		链家网签约	10661	EmptyInfo
+http://bj.lianjia.com/chengjiao/101100305310.html	西山公馆	1室1厅	69	东	精装	有电梯	2016-08	2016.08.29	515	中楼层	共6层	2010年建板楼	链家网签约	74207	EmptyInfo
+http://bj.lianjia.com/chengjiao/101100418134.html	西山公馆	1室1厅	69	东	精装	有电梯	2016-08	2016.08.25	500	高楼层	共6层	2010年建板楼	链家网签约	72046	EmptyInfo
+http://bj.lianjia.com/chengjiao/101100229718.html	西山公馆	2室2厅	115	西南	精装	有电梯	2016-08	2016.08.19	752	低楼层	共7层	2010年建板楼	链家网签约	65391	EmptyInfo
+http://bj.lianjia.com/chengjiao/101092066203.html	西山公馆	2室2厅	113	东南 北	精装	有电梯	2016-08	2016.08.19	720	高楼层	共7层	2010年建板楼	链家网签约	63717	EmptyInfo
+http://bj.lianjia.com/chengjiao/101100351009.html	西山公馆	1室0厅	43	东	其他	有电梯	2016-08	2016.08.18	350	中楼层	共6层	2010年建板楼	链家网签约	81395	EmptyInfo
+http://bj.lianjia.com/chengjiao/101100396318.html	西山公馆	3室2厅	151	南 北	精装	有电梯	2016-08	2016.08.18	1050	低楼层	共7层	2010年建板楼	链家网签约	69661	EmptyInfo
+http://bj.lianjia.com/chengjiao/101092362570.html	西山公馆	3室2厅	151	南 北	精装	有电梯	2016-08	2016.08.17	1070	高楼层	共7层	2010年建板楼	链家网签约	70908	EmptyInfo
+http://bj.lianjia.com/chengjiao/101100315521.html	西山公馆	1室0厅	42	东	精装	有电梯	2016-08	2016.08.04	320	中楼层	共6层	2010年建板楼	链家网签约	76757	EmptyInfo
+EmptyLink	西山公馆	3室2厅	139	暂无数据	其他	有电梯	2016-08	2016.08	暂无	低楼层	共6层	2010年建板楼	自行成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/101100345560.html	西山公馆	3室2厅	151	南 北	其他	有电梯	2016-08	2016.08	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/101092340567.html	西山公馆	2室2厅	114	东南 北	精装	有电梯	2016-06	2016.06	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD92241820.html	西山公馆	3室2厅	151	南 北	精装	有电梯	2016-05	2016.05.29	1040	中楼层	共7层	2010年建板楼	链家网签约	68911	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD92270980.html	西山公馆	1室0厅	144	南	其他	有电梯	2016-05	2016.05.29	108	地下室	共6层	2010年建板楼	链家网签约	7506	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD91948276.html	西山公馆	3室2厅	151	南 北	其他	有电梯	2016-05	2016.05.26	1017	低楼层	共6层	2010年建板楼	链家网签约	67373	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD91862236.html	西山公馆	2室2厅	110	东 西	精装	有电梯	2016-05	2016.05	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD91763419.html	西山公馆	2室2厅	273	南 北	精装	有电梯	2016-05	2016.05	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD92146202.html	西山公馆	1室0厅	42	东	精装	有电梯	2016-05	2016.05	暂无	中楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD91769766.html	西山公馆	3室2厅	151	南 北	精装	有电梯	2016-04	2016.04.10	963	中楼层	共7层	2010年建板楼	链家网签约	63889	房本满两年
+EmptyLink	西山公馆	--室--厅	70	暂无数据	其他	有电梯	2016-04	2016.04	暂无	中楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+EmptyLink	西山公馆	--室--厅	69	暂无数据	其他	有电梯	2016-04	2016.04	暂无	中楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD91687186.html	西山公馆	1室0厅	33	东 西	毛坯	有电梯	2016-03	2016.03.05	32.5	高楼层	共7层	2010年建板楼	链家网签约	9899	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD91530648.html	西山公馆	1室1厅	69	西	精装	有电梯	2016-02	2016.02.28	356	高楼层	共6层	2010年建板楼	链家网签约	51925	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD91434531.html	西山公馆	1室0厅	33	南	其他	有电梯	2016-01	2016.01.17	32	高楼层	共7层	2010年建板楼	链家网签约	9747	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD90393685.html	西山公馆	3室2厅	119	东 西	其他	有电梯	2016-01	2016.01	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+EmptyLink	西山公馆	--室--厅	139	暂无数据	其他	有电梯	2016-01	2016.01	暂无	未知楼层	共7层	2010年建板楼	自行成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD89668798.html	西山公馆	2室1厅	110	东 西	精装	有电梯	2015-12	2015.12.27	529	中楼层	共7层	2010年建板楼	链家网签约	47943	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD90636384.html	西山公馆	2室1厅	110	东 西	精装	有电梯	2015-12	2015.12.14	525	中楼层	共6层	2010年建板楼	链家网签约	47563	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD90663517.html	西山公馆	2室1厅	110	东 西	精装	有电梯	2015-12	2015.12.13	507	高楼层	共7层	2010年建板楼	链家网签约	46007	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD90895621.html	西山公馆	3室2厅	151	南 北	精装	有电梯	2015-12	2015.12.10	760	高楼层	共7层	2010年建板楼	链家网签约	50478	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD90601373.html	西山公馆	1室0厅	42	东	其他	有电梯	2015-12	2015.12.06	187	中楼层	共6层	2010年建板楼	链家网签约	44481	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD90824747.html	西山公馆	3室2厅	151	南 北	精装	有电梯	2015-12	2015.12.05	790	高楼层	共7层	2010年建板楼	链家网签约	52412	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD90624248.html	西山公馆	1室0厅	43	东	精装	有电梯	2015-12	2015.12	暂无	低楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD89879579.html	西山公馆	1室1厅	72	西南	其他	有电梯	2015-12	2015.12	暂无	低楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD91233005.html	西山公馆	1室1厅	70	东	精装	有电梯	2015-12	2015.12	暂无	高楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD90324906.html	西山公馆	2室2厅	119	东 西	精装	有电梯	2015-11	2015.11.08	565	中楼层	共7层	2010年建板楼	链家网签约	47535	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD90468656.html	西山公馆	2室2厅	119	东 西	精装	有电梯	2015-11	2015.11.07	570	高楼层	共7层	2010年建板楼	链家网签约	47895	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD89494519.html	西山公馆	3室2厅	151	南 北	精装	有电梯	2015-10	2015.10.11	720	中楼层	共6层	2010年建板楼	链家网签约	47581	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD90309614.html	西山公馆	3室2厅	151	南 北	精装	有电梯	2015-09	2015.09.14	730	低楼层	共7层	2010年建板楼	链家网签约	48370	EmptyInfo
+EmptyLink	西山公馆	--室--厅	102	暂无数据	其他	有电梯	2015-09	2015.09	暂无	未知楼层	共7层	2010年建板楼	自行成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD90386471.html	西山公馆	2室2厅	113	南 西 北	其他	有电梯	2015-09	2015.09	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD89286707.html	西山公馆	3室2厅	151	南 北	精装	有电梯	2015-08	2015.08.22	750	中楼层	共7层	2010年建板楼	链家网签约	49695	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD90802197.html	西山公馆	1室1厅	69	西	精装	有电梯	2015-08	2015.08	暂无	低楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD89873446.html	西山公馆	1室1厅	69	东	精装	有电梯	2015-08	2015.08	暂无	低楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+EmptyLink	西山公馆	--室--厅	70	暂无数据	其他	有电梯	2015-08	2015.08	暂无	低楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD89601808.html	西山公馆	3室1厅	132	东 西	精装	有电梯	2015-06	2015.06.14	655	低楼层	共7层	2010年建板楼	链家网签约	49681	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD89327381.html	西山公馆	1室1厅	69	西	精装	有电梯	2015-06	2015.06	暂无	低楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD89279703.html	西山公馆	1室1厅	72	南	精装	有电梯	2015-06	2015.06	暂无	高楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD88256114.html	西山公馆	2室1厅	110	东 西	精装	有电梯	2015-04	2015.04.20	495	高楼层	共7层	2010年建板楼	链家网签约	44918	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD88914433.html	西山公馆	4室3厅	295	南 北	精装	有电梯	2015-04	2015.04	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD89065002.html	西山公馆	3室2厅	151	南 北	精装	有电梯	2015-03	2015.03.31	710	中楼层	共7层	2010年建板楼	链家网签约	47045	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD88758960.html	西山公馆	2室1厅	110	东 西	精装	有电梯	2015-03	2015.03.29	496.5	中楼层	共7层	2010年建板楼	链家网签约	44997	EmptyInfo
+EmptyLink	西山公馆	--室--厅	111	暂无数据	其他	有电梯	2015-02	2015.02	暂无	未知楼层	共7层	2010年建板楼	自行成交	暂无均价	EmptyInfo
+EmptyLink	西山公馆	--室--厅	151	暂无数据	其他	有电梯	2014-12	2014.12	暂无	低楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+EmptyLink	西山公馆	--室--厅	110	暂无数据	其他	有电梯	2014-12	2014.12	暂无	未知楼层	共7层	2010年建板楼	自行成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD88562398.html	西山公馆	2室2厅	110	东 西	精装	有电梯	2014-12	2014.12	暂无	中楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD88032373.html	西山公馆	3室2厅	151	南 北	精装	有电梯	2014-12	2014.12	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD88399370.html	西山公馆	3室2厅	151	南 北	精装	有电梯	2014-12	2014.12	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD88177915.html	西山公馆	2室2厅	110	东 西	精装	有电梯	2014-12	2014.12	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+EmptyLink	西山公馆	--室--厅	151	暂无数据	其他	有电梯	2014-11	2014.11	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD88347621.html	西山公馆	2室1厅	69	西	精装	有电梯	2014-10	2014.10.19	300	高楼层	共6层	2010年建板楼	链家网签约	43522	EmptyInfo
+EmptyLink	西山公馆	--室--厅	69	暂无数据	其他	有电梯	2014-10	2014.10	暂无	高楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD86672249.html	西山公馆	1室0厅	42	东	精装	有电梯	2014-05	2014.05	暂无	高楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD87630903.html	西山公馆	2室2厅	119	东 西	精装	有电梯	2014-05	2014.05	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD86812675.html	西山公馆	3室2厅	151	南 北	其他	有电梯	2014-04	2014.04	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+EmptyLink	西山公馆	--室--厅	151	暂无数据	其他	有电梯	2014-04	2014.04	暂无	中楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD86934565.html	西山公馆	1室0厅	42	东	其他	有电梯	2014-03	2014.03.25	192	低楼层	共6层	2010年建板楼	链家网签约	46054	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD86966017.html	西山公馆	1室0厅	150	南 北	其他	有电梯	2014-03	2014.03.20	700	低楼层	共7层	2010年建板楼	链家网签约	46713	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD87115358.html	西山公馆	1室1厅	69	西	其他	有电梯	2014-03	2014.03.09	320	中楼层	共6层	2010年建板楼	链家网签约	46674	EmptyInfo
+EmptyLink	西山公馆	--室--厅	151	暂无数据	其他	有电梯	2014-03	2014.03	暂无	未知楼层	共7层	2010年建板楼	自行成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD86263789.html	西山公馆	2室1厅	120	东 西	其他	有电梯	2013-12	2013.12.08	510	高楼层	共7层	2010年建板楼	链家网签约	42429	房本满两年
+http://bj.lianjia.com/chengjiao/BJHD86843511.html	西山公馆	3室2厅	151	南 北	其他	有电梯	2013-12	2013.12.06	80	中楼层	共6层	2010年建板楼	链家网签约	5299	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD86369064.html	西山公馆	1室0厅	42	东	其他	有电梯	2013-10	2013.10.20	197	中楼层	共6层	2010年建板楼	链家网签约	47254	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD86050218.html	西山公馆	1室1厅	73	东 南	其他	有电梯	2013-09	2013.09.04	325	中楼层	共6层	2010年建板楼	链家网签约	44576	EmptyInfo
+EmptyLink	西山公馆	--室--厅	70	暂无数据	其他	有电梯	2013-08	2013.08	暂无	中楼层	共6层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD85682415.html	西山公馆	3室2厅	152	南 北	其他	有电梯	2013-07	2013.07	暂无	未知楼层	共7层	2010年建板楼	可靠第三方成交	暂无均价	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD85414078.html	西山公馆	1室1厅	70	东	其他	有电梯	2013-01	2013.01.26	256	低楼层	共6层	2010年建板楼	链家网签约	36587	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD84537316.html	西山公馆	3室2厅	150	南 北	其他	有电梯	2012-05	2012.05.12	474.648	高楼层	共7层	2010年建板楼	链家网签约	31643	EmptyInfo
+http://bj.lianjia.com/chengjiao/BJHD84503305.html	西山公馆	2室2厅	119	东 西	其他	有电梯	2012-04	2012.04.29	325	低楼层	共7层	2010年建板楼	链家网签约	27311	EmptyInfo
